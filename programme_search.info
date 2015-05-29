@@ -1,0 +1,3 @@
+name = Programme Search (Example module)
+description = Provides a form containing an autocomplete field for searching programmes.
+core = 7.x
